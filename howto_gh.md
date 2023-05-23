@@ -1,3 +1,8 @@
+# CH en terminal para poder manejar el repositorio desde local
+## pasos a seguir
+### terminal local
+```
+
 sudo apt update
 sudo apt install gh
 sudo apt-get update
@@ -37,3 +42,4 @@ git push
   510  git commit "actualizar readme."
   511  git commit -m "actualizar readme"
   512  git push
+```
