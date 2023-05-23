@@ -79,6 +79,8 @@ https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#
  conda notebook
  conda install jupyter
 jupyter notebook
+# Sintaxis Markdown
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Instalar git https://github.com/git-guides/install-git
 ## p5.js
