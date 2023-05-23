@@ -27,19 +27,10 @@ git config --local credential.helper ""
 git push
 git config --local credential.helper ""
 git push
-  498  gh auth login
-  499  ls
-  500  git init -b main
-  501  git add .
-  502  git commit -m "First commit"
-  503  git commit -m "Second commit"
-  504  git add
-  505  git add .
-  506  git commit -m "Second commit"
-  507  gh repo create
-  508  git add .
-  509  git push
-  510  git commit "actualizar readme."
-  511  git commit -m "actualizar readme"
+gh auth login
+ gh repo create
+git add .
+
+  510  git commit -m "First commit."
   512  git push
 ```
