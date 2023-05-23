@@ -5,7 +5,7 @@
 
 // API Key for Mapbox. Get one here:
 // https://www.mapbox.com/studio/account/tokens/
-const key = 'pk.eyJ1IjoiamFuZWJldGE3IiwiYSI6ImNrdzdobHIzczBqdmgyb3Bhc3ZjNXhzbGYifQ.eTmcWTyuNyMvX5KbNIMADg'
+const key = 'key'
   let orange;
 // Options for map
 const options = {

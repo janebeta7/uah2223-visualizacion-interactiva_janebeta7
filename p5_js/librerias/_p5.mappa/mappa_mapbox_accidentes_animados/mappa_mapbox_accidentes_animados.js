@@ -14,7 +14,7 @@ let white;
 
 const w = 1200;
 const h = 1200;
-const key = 'pk.eyJ1IjoiamFuZWJldGE3IiwiYSI6ImNrdzdobHIzczBqdmgyb3Bhc3ZjNXhzbGYifQ.eTmcWTyuNyMvX5KbNIMADg'
+const key = 'SECRET_KEY'
 
   const options = {
   lat: 
